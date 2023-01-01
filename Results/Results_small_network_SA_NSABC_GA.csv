@@ -1,0 +1,4 @@
+Algorithm,Avg_Best_score,Dominating_Solutions,Dominated_Solutions,Avg_RunTime,Min_RunTime,Max_RunTime
+Simulated Annealing,-1.027200808,961897.2,508260,2.004,1.83,2.26
+Artificial Bee Colony,-0.997791923,8898972.6,1738159.7,2.037,1.17,4.15
+Genetic Algorithm,0.036044424,783713.2,8398163.3,1.145,0.46,3.56

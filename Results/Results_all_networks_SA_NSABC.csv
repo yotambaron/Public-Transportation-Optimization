@@ -1,0 +1,11 @@
+Network Size,Algorithm,Average Score,Dominating Solutions,Dominated Solutions,Average Run Time,Min Run Time,Max Run Time
+Very Small,Simulated Annealing,-0.763,119,74,0.79,0.76,0.80
+,Artificial Bee Colony,-0.818,74,119,0.94,0.53,1.91
+Small,Simulated Annealing,-1.027,211,88,2.00,1.83,2.26
+,Artificial Bee Colony,-0.998,88,211,2.04,1.17,4.15
+Medium,Simulated Annealing,-1.925,577,81,13.49,12.77,14.30
+,Artificial Bee Colony,-1.375,81,577,14.83,8.44,25.35
+Big,Simulated Annealing,-1.876,1131,23,41.05,37.49,47.61
+,Artificial Bee Colony,1.051,23,1131,40.06,25.05,61.62
+Large,Simulated Annealing,-2.448,2317,0,343.05,323.62,365.90
+,Artificial Bee Colony,5.345,0,2317,183.08,140.45,238.01

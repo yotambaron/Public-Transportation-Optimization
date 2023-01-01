@@ -1,0 +1,25 @@
+Network Size,Algorithm,Average Score,Dominating Solutions,Dominated Solutions,Average Run Time,Min Run Time,Max Run Time
+Very Small,Simulated Annealing,-0.763,2537760.6,729860.6,0.79,0.76,0.80
+,Artificial Bee Colony,-0.818,8077763.3,613864.7,0.94,0.53,1.91
+,Genetic Algorithm,-0.354,206141.4,9477940,0.88,0.43,1.93
+Small,Simulated Annealing,-1.027,961897.2,508260,2.00,1.83,2.26
+,Artificial Bee Colony,-0.998,8898972.6,1738159.7,2.04,1.17,4.15
+,Genetic Algorithm,0.036,783713.2,8398163.3,1.15,0.46,3.56
+Medium,Simulated Annealing,-1.925,2038137.9,343109.7,13.49,12.77,14.30
+,Artificial Bee Colony,-1.375,2615783.9,2831931.4,14.83,8.44,25.35
+,Genetic Algorithm,2.573,793793.5,2272674.2,4.34,2.69,14.72
+Big,Simulated Annealing,-1.876,3748221.5,146373.3,41.05,37.49,47.61
+,Artificial Bee Colony,1.051,2025432.1,10792574.1,40.06,25.05,61.62
+,Genetic Algorithm,7.621,1044352.6,1879058.8,21.99,12.18,65.09
+Large,Simulated Annealing,-2.448,17162879,0,343.05,323.62,365.90
+,Artificial Bee Colony,5.345,17720573,17171268.3,183.08,140.45,238.01
+,Genetic Algorithm,12.216,8389.3,17720573,54.17,42.70,63.35
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

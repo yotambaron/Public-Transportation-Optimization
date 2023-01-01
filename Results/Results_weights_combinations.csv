@@ -1,0 +1,4 @@
+Algorithm,Very Small Network,Small Network,Medium Network,Big Network
+Simulated Annealing,-1.864,-1.942,-6.213,-5.634
+Artificial Bee Colony,-2.091,-2.061,-6.061,-3.067
+Genetic Algorithm,-1.284,-0.303,-0.569,2.198
