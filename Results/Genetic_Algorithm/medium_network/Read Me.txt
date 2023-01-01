@@ -1,0 +1,14 @@
+NSABC Algorithm:
+Random seed = 42
+Number of employed bees = 15
+Number of nodes in the network = 50
+Number of buses = 10
+Minimum number of buses = 5
+Maximum number of buses = 10
+Iterations = 1000
+Improvement limit = 150 iterations
+Two methods were applied - 
+1. changing limit and changing objective function weights (105 total possibilities)
+2. pareto dominant solutions using uniform objective function weights and limit of 50 - archive with the pareto optimal solutions is outputed
+
+In the first option the output are the paths dictionaries of every limit and weight combination and a file with the results of each combination.
