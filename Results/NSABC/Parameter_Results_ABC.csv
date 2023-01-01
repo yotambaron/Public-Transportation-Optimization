@@ -1,0 +1,5 @@
+Parameter_Name,Parameter_Value,Average_Score,Average_Run_time
+Limit,10,-2.918,5.608
+Limit,30,-3.017,5.693
+Limit,50,-3.289,5.517
+Limit,150,-3.196,5.756
