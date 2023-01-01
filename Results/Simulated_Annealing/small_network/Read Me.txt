@@ -1,0 +1,16 @@
+SA Algorithm:
+We ran 10 permutations with seed starting at 42 and increasing by 3 in every permutation.
+TI = 300 starting temperature
+TL = 150 number of iterations at every temperature
+Temperature threshold = 1 if the temperature drops below the process stops
+Number of nodes in the network = 20
+Number of buses = 5
+Minimum number of buses = 4
+Maximum number of buses = 7
+Iterations = 1000
+
+Two methods were applied - 
+1. changing decrease rate and changing objective function weights (84 total possibilities)
+2. pareto dominant solutions using uniform objective function weights and decrease rate of 0.85 - archive with the pareto optimal solutions is outputed
+
+In the first option the output are the paths dictionaries of every limit and weight combination and a file with the results of each combination.
